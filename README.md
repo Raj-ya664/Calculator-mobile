@@ -2,6 +2,8 @@
 Preview of application 
 
 
+
+ 
 # light mode 
 
 ![WhatsApp Image 2025-06-07 at 6 07 12 PM](https://github.com/user-attachments/assets/4b92a583-3b46-4ca9-902f-e9c34a675c87)
